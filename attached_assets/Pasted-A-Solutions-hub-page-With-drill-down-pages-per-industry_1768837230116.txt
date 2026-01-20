@@ -1,0 +1,119 @@
+A Solutions hub page
+With drill-down pages per industry or flow
+
+Solutions
+Contract-to-cash execution by industry and revenue flow
+LicenseIQ helps finance teams execute contract-driven revenue accurately, consistently, and audit-ready — across industries and revenue models.
+We focus on the hardest part most systems ignore:
+turning signed contracts into correct journal entries.
+
+Solutions by Industry
+High-Tech & Industrial Manufacturing
+Distributor-led revenue, complex incentives, audit pressure
+Common challenges
+Distributor rebates and chargebacks managed in spreadsheets
+Limited visibility into POS and sell-through data
+Accruals questioned during close and audit
+LicenseIQ solves
+Contract-driven rebate and incentive execution
+POS validation against pricing and eligibility rules
+Automated accruals and settlement outputs
+Clause-to-journal audit traceability
+Typical ERP
+NetSuite, Oracle, SAP (mid-market)
+Primary flows
+Distributor Rebates • Chargebacks • Price Protection
+
+IP & Licensing-Driven Businesses
+Royalty-heavy revenue with audit and compliance risk
+Common challenges
+Royalty calculations outside the ERP
+Licensee reports trusted without validation
+High audit effort and under-reporting risk
+LicenseIQ solves
+Clause-level royalty execution
+Tiered rates, minimums, and caps
+Licensee data validation
+Royalty accruals, statements, and settlements
+Full audit-ready evidence packages
+Primary flows
+Licensing & Royalties • Revenue Share
+
+Branded Manufacturing & CPG (Mid-Market)
+Rebates, MDF, and incentive complexity
+Common challenges
+Rebate programs disconnected from contracts
+Claims approved without full validation
+Accruals and settlements don’t reconcile
+LicenseIQ solves
+Contract-driven rebate logic
+Claim validation and eligibility enforcement
+Accurate accruals and settlements
+Dispute and adjustment traceability
+Primary flows
+Rebates • MDF • Trade Incentives
+
+SaaS & Platform Businesses
+Revenue sharing, OEM, and marketplace complexity
+Common challenges
+Revenue-share logic outside billing systems
+Manual adjustments every close
+Difficulty explaining revenue splits to auditors
+LicenseIQ solves
+Contract-to-usage execution
+Revenue share and split calculations
+ERP-ready journal outputs
+Clear audit narratives for revenue allocation
+Primary flows
+Revenue Share • OEM Agreements • Marketplace Splits
+
+PE-Backed & Multi-Entity Organizations
+Standardization after acquisitions
+Common challenges
+Inconsistent contract execution across entities
+Spreadsheet-heavy close processes
+Elevated audit risk post-acquisition
+LicenseIQ solves
+Standardized contract execution across entities
+Centralized finance-owned control
+Consistent accrual and settlement logic
+Scalable governance model
+Primary flows
+All contract-driven revenue flows
+
+
+Solutions by Revenue Flow
+This section works especially well as a grid or icon-based layout.
+
+Distributor & Reseller Programs
+Rebates and incentives
+POS and sell-through validation
+Price protection and chargebacks
+Accruals and settlements
+
+Licensing & Royalties
+Sales-based and usage-based royalties
+Tiered rates, minimum guarantees, caps
+Licensee reporting validation
+Royalty statements and settlements
+
+Rebates & Incentives
+Contract-driven eligibility logic
+Claim validation
+Accurate accruals
+Settlement traceability
+
+Price Protection & Chargebacks
+Contracted price validation
+Claim verification
+Credit and settlement calculations
+Audit defense
+
+Revenue Share & Marketplace Splits
+Multi-party revenue allocation
+Usage and transaction-based splits
+ERP-ready journal outputs
+Audit-ready explanations
+
+[Explore solutions / Request a conversation a button to send info request]
+

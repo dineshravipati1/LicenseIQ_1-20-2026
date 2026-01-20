@@ -1,0 +1,102 @@
+How LicenseIQ Answers - Questions Auditors Ask
+This appendix reflects real questions auditors ask during revenue, accrual, and channel program audits — especially where contracts, estimates, and partner data are involved.
+
+1. How do you determine the correct amount to accrue?
+What auditors want to know:
+Is the accrual calculated using consistent, documented logic tied to contractual obligations?
+How LicenseIQ supports this:
+Accruals are derived directly from contract-defined rules, not spreadsheets
+Each accrual is traceable to:
+The source contract
+The specific clause or rate
+The underlying transaction or reported data
+Calculations are deterministic and reproducible
+
+2. What evidence supports these calculations?
+What auditors want to know:
+Can Finance reproduce the numbers independently and explain the logic?
+How LicenseIQ supports this:
+Every calculation produces a full evidence package, including:
+Contract clause references
+Input data used
+Applied rates, tiers, and thresholds
+Calculation steps
+Outputs are consistent across periods unless the contract or data changes
+
+3. How do you validate third-party or partner-reported data?
+What auditors want to know:
+Are partner reports trusted blindly, or validated against contract rules?
+How LicenseIQ supports this:
+Partner and licensee data is validated against contract eligibility rules
+Exceptions are flagged and documented
+Finance can demonstrate:
+What was accepted
+What was rejected
+Why
+
+4. How do you prevent or detect revenue leakage?
+What auditors want to know:
+Are there controls to detect under-reporting, over-claims, or pricing violations?
+How LicenseIQ supports this:
+Rule-based validation combined with variance detection
+Historical trend comparisons
+Threshold-based exception flags
+Documented follow-up and resolution paths
+
+5. How do you ensure consistency period over period?
+What auditors want to know:
+Are accruals and settlements calculated consistently across closes?
+How LicenseIQ supports this:
+Contract logic is versioned and locked per period
+Any contract change automatically creates a new effective version
+Period-over-period differences are explainable and traceable
+
+6. Who reviews and approves the calculations?
+What auditors want to know:
+Is there a documented review and approval process?
+How LicenseIQ supports this:
+Configurable review checkpoints
+Clear ownership between:
+Contract interpretation
+Data validation
+Final posting approval
+Audit logs show who reviewed, approved, and when
+
+7. How do you handle disputes or restatements?
+What auditors want to know:
+Are disputes handled systematically and documented?
+How LicenseIQ supports this:
+Disputes are tied to:
+The original contract
+The affected data and calculation
+Adjustments create clear reversal and rebooking entries
+Full historical trail is preserved
+
+8. How do you ensure management judgment is applied appropriately?
+What auditors want to know:
+Where does judgment exist, and how is it controlled?
+How LicenseIQ supports this:
+Judgment points are explicit and documented
+Overrides require justification and approval
+All overrides are fully auditable and traceable
+
+9. How do these calculations integrate into the general ledger?
+What auditors want to know:
+Are postings controlled, accurate, and reconciled?
+How LicenseIQ supports this:
+Produces ERP-ready journal entries
+Supports reconciliation between:
+Sub-ledger calculations
+GL balances
+Clear mapping between calculation outputs and posted entries
+
+10. How quickly can you respond to audit questions?
+What auditors want to know:
+Can Finance respond without manual reconstruction?
+How LicenseIQ supports this:
+Evidence is available on demand
+No spreadsheet rebuilding or ad-hoc explanations
+Audit questions are answered using the same system used to calculate the numbers
+Optional closing line (recommended)
+LicenseIQ doesn’t just calculate the numbers — it explains them.
+

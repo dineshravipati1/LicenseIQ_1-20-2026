@@ -1,0 +1,187 @@
+Early Adopter Program
+Build the financial control layer for contract-driven revenue
+LicenseIQ is inviting a limited number of early adopter customers to partner with us as we define a new standard for contract-to-cash financial control.
+This program is designed for finance teams managing channel programs, licensing, royalties, and incentive agreements who want end-to-end traceability from signed contracts to ERP journal entries.
+
+Who this program is for
+The Early Adopter Program is a strong fit if you:
+Operate on a NetSuite-era or mid-market ERP
+Manage distributor, reseller, licensing, royalty, or incentive contracts
+Rely on signed agreements and spreadsheets to calculate accruals or settlements
+Face recurring challenges during close, audits, or partner disputes
+Want Finance to own contract execution and financial truth
+This program is intentionally finance-led, not sales- or pricing-driven.
+
+Supported contract-to-cash flows
+Early adopters can deploy LicenseIQ for one or more of the following flows:
+Channel & Partner Programs
+Distributor and reseller rebates
+Sell-in and sell-through incentives
+POS and transaction validation
+Accruals and settlement calculations
+Price protection and chargebacks
+Licensing & Royalties
+Sales-based and usage-based royalties
+Tiered rates, minimum guarantees, and caps
+Licensee reporting validation
+Multi-currency calculations
+Royalty accruals, settlements, and statements
+All flows use the same execution engine and provide full traceability from contract clause to journal entry.
+
+What early adopters get
+Early adopters receive:
+Production access to LicenseIQ for scoped contract flows
+Guided onboarding with direct access to the founding team
+Contract-to-journal traceability configured using real contracts and data
+Priority influence on product roadmap and execution patterns
+Early access to audit, variance, and dispute-resolution capabilities
+
+Commercial terms (transparent, not promotional)
+Early adopters benefit from:
+Founding-customer pricing (below future list pricing)
+Discounted or credited implementation fees
+Multi-year price protection
+Flexible scope during the initial deployment
+Pricing is based on revenue under management and contract complexity, not per user or per document.
+
+What we ask in return
+Because this is a partnership program, we ask early adopters to:
+Commit to an initial production deployment
+Provide structured feedback during onboarding
+Participate in a reference or case study once value is proven (timing agreed mutually)
+This ensures the program remains focused, collaborative, and high-signal.
+
+Why we’re doing this
+Most mid-market companies still execute channel and licensing contracts using spreadsheets layered on top of signed documents and ERPs.
+LicenseIQ exists to replace that with:
+Deterministic, contract-driven execution
+Finance-owned control and accountability
+Audit-ready proof
+Built-in conflict resolution
+Early adopters help shape this category — and benefit first.
+
+Call to action
+Apply for the Early Adopter Program
+We are accepting a limited number of early adopter customers.
+If LicenseIQ could materially improve how your finance team executes contract-driven revenue, we’d like to talk.
+[Apply / Request a conversation]
+
+Optional small-print (recommended)
+The Early Adopter Program is limited and subject to qualification. Not all applicants will be accepted.
+Early Adopter Program – FAQ
+For Finance & Accounting Leaders
+
+Is this a beta or pilot product?
+No. LicenseIQ is deployed in production environments as a financial execution and control layer.
+The Early Adopter Program is about partnership and scope, not product maturity.
+Early adopters receive priority onboarding and influence over roadmap sequencing, but deployments are production-grade from day one.
+
+What problem does LicenseIQ actually solve for Finance?
+LicenseIQ gives Finance end-to-end traceability from a signed contract to ERP journal entries.
+Specifically, it:
+Converts contract clauses into executable financial logic
+Validates real transaction data against those contracts
+Calculates accruals and settlements deterministically
+Produces audit-ready journal outputs with full lineage
+This replaces spreadsheet-driven interpretation with finance-owned execution and proof.
+
+How is this different from our ERP, pricing tools, or incentive systems?
+Most systems handle parts of the process:
+ERPs book results
+Pricing tools optimize prices
+Incentive tools manage payouts
+LicenseIQ sits between contracts and the books.
+It ensures the numbers Finance posts are correct, explainable, and defensible — regardless of which upstream systems you use.
+
+Do we need to replace any existing systems?
+No.
+LicenseIQ:
+Does not replace your ERP
+Does not set prices or approve deals
+Does not require ripping out existing tools
+It integrates with your current environment and produces ERP-ready outputs while your ERP remains the system of record.
+
+What contract flows can we start with?
+Early adopters typically start with one or two high-impact flows, such as:
+Distributor or reseller rebates
+Price protection or chargebacks
+Licensing and royalties
+Additional flows can be added over time using the same execution engine.
+
+How long does implementation take?
+Typical timelines:
+4–6 weeks for a focused initial deployment
+Depends on contract complexity, data readiness, and number of flows
+Implementation ensures Finance signs off on:
+Contract logic
+Data validation
+Accrual and settlement outputs
+before go-live.
+
+Why is there an implementation fee?
+Implementation de-risks the deployment for Finance.
+It covers:
+Contract normalization and rule validation
+Data mapping and reconciliation
+ERP output verification
+A close-cycle dry run
+Early adopters may receive discounted or credited implementation fees, but the work itself is essential to ensure trust in the numbers.
+
+How is pricing determined?
+Pricing is based on:
+Revenue under management
+Contract and data complexity
+Number of flows in scope
+It is not based on:
+Number of users
+Number of documents
+Usage or compute
+Most early adopters see 5–10× ROI through leakage reduction, close efficiency, and audit risk reduction.
+
+Is LicenseIQ SOC / audit ready?
+LicenseIQ is designed for audit defensibility, including:
+Clause-to-journal traceability
+Reproducible calculations
+Clear evidence packages for auditors
+Formal certifications can be discussed as part of enterprise rollout planning.
+
+What does “early adopter” mean in practice?
+Early adopters:
+Get priority access to the founding team
+Influence roadmap sequencing
+Receive favorable commercial terms
+Shape how the category evolves
+It is a design partnership, not a trial program.
+
+What do you expect from early adopters in return?
+We ask early adopters to:
+Commit to a production deployment
+Provide structured feedback during onboarding
+Participate in a reference or case study once value is proven (timing agreed mutually)
+This keeps the program focused and high-signal.
+
+What happens after the early adopter phase?
+Early adopters:
+Retain their pricing protections
+Expand scope at agreed commercial terms
+Transition seamlessly into standard support and governance models
+There is no forced re-platforming or re-implementation.
+
+How do we know if we’re a good fit?
+You’re likely a strong fit if:
+Finance relies on spreadsheets to execute contract-driven revenue
+Accruals or settlements require explanation every close
+Audits or disputes create recurring friction
+You want Finance — not Sales Ops — to own financial truth
+If that sounds familiar, the Early Adopter Program is designed for you.
+
+How do we apply?
+Apply directly through the Early Adopter Program page.
+All applications are reviewed to ensure:
+Mutual fit
+Clear value opportunity
+Focused scope for a successful deployment
+
+Optional closing line (recommended)
+LicenseIQ is built for finance leaders who want certainty, not just automation.
+

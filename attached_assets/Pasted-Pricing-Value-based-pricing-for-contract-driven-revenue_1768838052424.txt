@@ -1,0 +1,71 @@
+Pricing
+Value-based pricing for contract-driven revenue
+LicenseIQ is priced based on the financial complexity and revenue under management, not per user, document, or transaction.
+Our pricing reflects the value we deliver: accuracy, control, audit-ready execution, and reduced revenue leakage.
+
+Pricing tiers
+Control
+Designed for finance teams replacing spreadsheets with deterministic, contract-driven execution.
+Typically includes:
+Contract ingestion and clause-to-rule execution
+Support for one core contract flow
+(e.g., distributor rebates, royalties, or chargebacks)
+Transaction or POS data ingestion
+Deterministic calculations and accrual outputs
+ERP-ready journal entry outputs
+Clause-to-journal traceability
+Finance-owned review and approval controls
+Best for:
+Mid-market organizations establishing financial control over a high-impact contract flow.
+
+Assurance
+Designed for finance teams that need consistency, audit confidence, and repeatability across multiple contract flows.
+Includes everything in Control, plus:
+Support for multiple contract flows
+Advanced validation and eligibility rules
+Period-over-period consistency controls
+Variance detection and exception tracking
+Audit-ready evidence packages
+Dispute and adjustment traceability
+Best for:
+Finance organizations under audit scrutiny managing multiple channel or licensing programs.
+
+Governance	
+Designed for finance leaders who require enterprise-grade oversight, scalability, and predictability.
+Includes everything in Assurance, plus:
+Multi-entity and multi-region support
+Advanced audit and compliance reporting
+Predictive leakage and variance insights
+Role-based controls and governance workflows
+Priority roadmap influence and strategic support
+Best for:
+Complex or PE-backed organizations where contract-driven revenue is material to financial reporting.
+
+Implementation & onboarding
+Implementation is scoped separately to ensure accuracy, trust, and audit readiness.
+Implementation typically includes:
+Contract normalization and rule validation
+Data mapping and reconciliation
+ERP output verification
+Close-cycle validation prior to go-live
+Early Adopter Program participants may receive discounted or credited implementation as part of their partnership.
+
+How pricing is determined
+Pricing is influenced by:
+Revenue under management
+Contract and rule complexity
+Number of contract flows
+Data sources and ERP integrations
+Pricing is not based on:
+Number of users
+Volume of documents
+Transaction counts
+AI usage or compute
+
+How to get started
+Most customers start with one high-impact contract flow and expand over time.
+[Request pricing / Book a conversation - add a contact form to book a meeting]
+
+Optional website footnote (recommended)
+Final pricing is determined based on scope, complexity, and deployment requirements.
+
